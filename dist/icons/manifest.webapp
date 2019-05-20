@@ -1,0 +1,14 @@
+{
+  "version": "0.0.5",
+  "name": "Bikeshed",
+  "description": "",
+  "icons": {
+    "60": "/bundles/bikeshed/icons/firefox_app_60x60.png",
+    "128": "/bundles/bikeshed/icons/firefox_app_128x128.png",
+    "512": "/bundles/bikeshed/icons/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "Maintainerati Project",
+    "url": "https://github.com/maintainerati/bikeshed"
+  }
+}

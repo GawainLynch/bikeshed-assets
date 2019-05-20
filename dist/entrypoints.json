@@ -1,0 +1,47 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/bundles/bikeshed/runtime.js",
+        "/bundles/bikeshed/app.js"
+      ],
+      "css": [
+        "/bundles/bikeshed/app.css"
+      ]
+    },
+    "focus": {
+      "js": [
+        "/bundles/bikeshed/runtime.js",
+        "/bundles/bikeshed/focus.js"
+      ],
+      "css": [
+        "/bundles/bikeshed/focus.css"
+      ]
+    },
+    "space": {
+      "js": [
+        "/bundles/bikeshed/runtime.js",
+        "/bundles/bikeshed/space.js"
+      ]
+    },
+    "editor": {
+      "js": [
+        "/bundles/bikeshed/runtime.js",
+        "/bundles/bikeshed/editor.js"
+      ],
+      "css": [
+        "/bundles/bikeshed/editor.css"
+      ]
+    }
+  },
+  "integrity": {
+    "/bundles/bikeshed/runtime.js": "sha384-6MIqDjGJn8ShX0b+kENlEqYLE3D7oHkCVQLhTiVJEVuqO96EmRZtSmK6leaw/wKa",
+    "/bundles/bikeshed/app.js": "sha384-MLmxW/0C56bQGOZ4TbqMKTh4To8qOzvo9ru4rMs5egehT0NmocoQNZ2wXreMq86r",
+    "/bundles/bikeshed/app.css": "sha384-7yU90ygRUwmGzKWIEkFIcerMEGrm4gaRTVEUzXSv+vAPWPdCbZmsIy1WueSSlEpV",
+    "/bundles/bikeshed/focus.js": "sha384-6X3cDfmrxfDY2dN0o+gJs+W1Yso0Dr3saoYxNVDpMSJgD6DD5xJDv5HLMnktB38/",
+    "/bundles/bikeshed/focus.css": "sha384-7yU90ygRUwmGzKWIEkFIcerMEGrm4gaRTVEUzXSv+vAPWPdCbZmsIy1WueSSlEpV",
+    "/bundles/bikeshed/space.js": "sha384-oK6J8XAYvrTGHdh7LUFLaZD2eBhst+RADiuXBKjCCO7a/61QTDMlZKdCgoQzCs7B",
+    "/bundles/bikeshed/editor.js": "sha384-B1cfHn8G/LgiuVhTrlUOGEkimMBS+OoKqA74BZF/UbUWwrMdpCseoK4d7zk+mn2s",
+    "/bundles/bikeshed/editor.css": "sha384-7yU90ygRUwmGzKWIEkFIcerMEGrm4gaRTVEUzXSv+vAPWPdCbZmsIy1WueSSlEpV"
+  }
+}
